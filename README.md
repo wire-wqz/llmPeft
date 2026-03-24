@@ -1,6 +1,6 @@
 # MedicalGPT / llmPert
 
-一个面向中文医疗场景的大语言模型微调与对齐训练项目。
+一个面向中文医疗场景的大语言模型微调与对齐训练项目。基于本项目训练的Qwen2.5-7B权重参数如下： [MedQwen2.5-7B]()
 
 项目基于 **PyTorch + Transformers + PEFT + TRL** 搭建，围绕 **Qwen / DeepSeek** 等开源大模型，支持从领域知识注入到偏好对齐的完整训练流程，包括：
 
@@ -15,7 +15,7 @@
 
 项目目标是将通用基座模型适配到 **中文医疗问答与垂域生成场景**，并提供从训练到推理的一体化工程范式。
 
-基于本项目训练的Qwen2.5-7B权重参数如下： [MedQwen2.5-7B](https://github.com/shibing624/MedicalGPT)
+
 
 ---
 
