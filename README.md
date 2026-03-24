@@ -1,4 +1,4 @@
-# MedicalGPT / llmPert
+# MedicalGPT / llmPeft
 
 一个面向中文医疗场景的大语言模型微调与对齐训练项目。基于本项目训练的Qwen2.5-7B权重参数如下： [MedQwen2.5-7B]()
 
