@@ -1,4 +1,4 @@
-# MedicalGPT / llmPert by wire
+# MedicalGPT / llmPert
 
 一个面向中文医疗场景的大语言模型微调与对齐训练项目。
 
